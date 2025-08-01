@@ -72,5 +72,8 @@ HTML5 / CSS3 / JavaScript
 
 Dependencias agregadas:Spring Data JPA - Postgres Driver - Spring Web
 
+## 🖼️ Vista previa del proyecto
+
+![Demostración de LiterAlura]("C:\Users\lucia\Downloads\LiterAluraVideo.gif")
 
 
