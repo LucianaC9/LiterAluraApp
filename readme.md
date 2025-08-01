@@ -74,6 +74,6 @@ Dependencias agregadas:Spring Data JPA - Postgres Driver - Spring Web
 
 ## 🖼️ Vista previa del proyecto
 
-![Demostración de LiterAlura](https://github.com/LucianaC9/LiterAluraApp/blob/master/LiterAluraVideoG(1).gif)
+![Demostración de LiterAlura](https://github.com/LucianaC9/LiterAluraApp/blob/master/LiterAluraApp.gif)
 
 
